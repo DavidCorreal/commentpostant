@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://ec2-107-22-83-3.compute-1.amazonaws.com:5432/dccsmfhv37msm?currentSchema=commentpost
+    username: noablcasduqflo
+    password: f22c727b2ca418b5171f1ce8c2bed6a0961963f08dfdf22a31583c8c93ddc817
+  jpa:
+    show-sql: true
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      javax:
+        persistence:
+          validation:
+            mode: none
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        default_schema: commentpost
+        jdbc:
+          lob:
+            non_contextual_creation: true

@@ -1,0 +1,6 @@
+com\bncl\entity\Comment$CommentBuilder.class
+com\bncl\mappers\ICommentMapperImpl.class
+com\bncl\adapters\CommentJpaAdapter.class
+com\bncl\entity\Comment.class
+com\bncl\mappers\ICommentMapper.class
+com\bncl\repository\ICommentRepository.class

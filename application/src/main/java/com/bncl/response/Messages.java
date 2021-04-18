@@ -17,4 +17,12 @@ public class Messages {
 		return new ResponseEntity<Map<String, Object>>(response, HttpStatus.INTERNAL_SERVER_ERROR);
 	}
 	
+	public static ResponseEntity<?> ErrorMessageController(String message){
+		Map<String, Object> response = new HashMap<>();
+		
+		response.put("message", message);
+		
+		return new ResponseEntity<Map<String, Object>>(response, HttpStatus.INTERNAL_SERVER_ERROR);
+	}
+	
 }

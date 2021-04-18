@@ -1,5 +1,7 @@
 com\bncl\dto\CommentDto.class
-com\bncl\ports\api\ICommentServicePort.class
-com\bncl\ports\spi\ICommentPersistencePort.class
 com\bncl\service\CommentService.class
 com\bncl\dto\CommentDto$CommentDtoBuilder.class
+com\bncl\dto\PostDto$PostDtoBuilder.class
+com\bncl\ports\api\ICommentServicePort.class
+com\bncl\dto\PostDto.class
+com\bncl\ports\spi\ICommentPersistencePort.class

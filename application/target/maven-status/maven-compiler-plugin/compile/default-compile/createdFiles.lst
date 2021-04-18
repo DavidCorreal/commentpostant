@@ -1,2 +1,4 @@
+com\bncl\controller\PostController.class
 com\bncl\controller\CommentController.class
 com\bncl\response\Messages.class
+com\bncl\controller\PostController$1.class

@@ -1,3 +1,6 @@
 D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\response\Messages.java
-D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\CommentController.java
-D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\PostController.java
+D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\interfaces\IPostController.java
+D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\implement\CommentController.java
+D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\implement\PostController.java
+D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\controller\interfaces\ICommentController.java
+D:\Archivos Personales\Proyectos\Test Bancolombia\workspace-bncl\commentpost\application\src\main\java\com\bncl\configuration\SwaggerConfiguration.java

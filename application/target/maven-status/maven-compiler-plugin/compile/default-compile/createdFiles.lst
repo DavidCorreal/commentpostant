@@ -1,4 +1,7 @@
-com\bncl\controller\PostController.class
-com\bncl\controller\CommentController.class
+com\bncl\controller\interfaces\IPostController.class
+com\bncl\controller\implement\PostController$1.class
+com\bncl\configuration\SwaggerConfiguration.class
+com\bncl\controller\implement\CommentController.class
+com\bncl\controller\interfaces\ICommentController.class
 com\bncl\response\Messages.class
-com\bncl\controller\PostController$1.class
+com\bncl\controller\implement\PostController.class
